@@ -626,4 +626,1260 @@ NPC : Bandolier
 ]NPC : Reese
 [
   "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
+]NPC : Bandolier
+[
+  "Flushed Building"
+]NPC : Beef Boss
+[
+  "The Durrr Burger",
+  "Durrr Burger Food Truck"
+]NPC : Big Chuggus
+[
+  "SLURPY SWAMP",
+  "Shanty Town"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Bigfoot"
+]NPC : Blaze
+[
+  "Pristine Point",
+  "Timber Tent"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "DIRTY DOCKS"
+]NPC : Bullseye
+[
+  "STEAMY STACKS"
+]NPC : Bunker Jonesy
+[
+  "Camp Cod",
+  "Shipwreck Cove"
+]NPC : Burnout
+[
+  "SWEATY SANDS",
+  "Athena.Location.UnNamedPOI.RadioStation",
+  "STEAMY STACKS"
+]NPC : Bushranger
+[
+  "Rapid's Rest",
+  "SALTY TOWERS",
+  "The Pizza Pit"
+]NPC : Cole
+[
+  "Shipwreck Cove",
+  "RETAIL ROW"
+]NPC : Deadfire
+[
+  "Sheriff's Office"
+]NPC : Doggo
+[
+  "PLEASANT PARK",
+  "RETAIL ROW"
+]NPC : Dummy
+[
+  "Compact Cars",
+  "PLEASANT PARK"
+]NPC : Farmer Steel
+[
+  "Steel Farm"
+]NPC : Fishstick
+[
+  "CRAGGY CLIFFS",
+  "Coral Castle"
+]NPC : Kondor
+[
+  "MISTY MEADOWS"
+]NPC : Menace
+[
+  "Colossal Coliseum"
+]NPC : Grimbles
+[
+  "Fort Crumpet"
+]NPC : Lexa
+[
+  "Hunter's Haven"
+]NPC : Kit
+[
+  "CATTY CORNER"
+]NPC : Kyle
+[
+  "Lumber Lodge",
+  "WEEPING WOODS"
+]NPC : Longshot
+[
+  "MISTY MEADOWS"
+]NPC : The Mandalorian
+[
+  "The Razor Crest"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "SWEATY SANDS",
+  "Flopper Pond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Viking Vessel"
+]NPC : Rapscallion
+[
+  "LAZY LAKE",
+  "HOLLY HEDGES"
+]NPC : Remedy
+[
+  "Hilltop House",
+  "CRAGGY CLIFFS"
+]NPC : Ruckus
+[
+  "Hydro 16"
+]NPC : Mave
+[
+  "Shipwreck Cove"
+]NPC : Sleuth
+[
+  "RETAIL ROW",
+  "SWEATY SANDS"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.PowerDam",
+  "LAZY LAKE",
+  "WEEPING WOODS"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "The Orchard"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Boost Pad"
+]NPC : Tomatohead
+[
+  "The Pizza Pit",
+  "Pizza Pete's Food Truck"
+]NPC : Triggerfish
+[
+  "Crashed Cargo"
+]NPC : Turk
+[
+  "Lake Canoe",
+  "STEAMY STACKS",
+  "Lazy Lake Island"
+]NPC : Reese
+[
+  "DIRTY DOCKS"
 ]
