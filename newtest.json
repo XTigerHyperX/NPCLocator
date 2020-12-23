@@ -1,0 +1,976 @@
+{
+      "pois": [
+        {
+          "id": "Athena.Location.POI.Carl",
+          "name": "Coral Castle",
+          "location": {
+            "x": 78368,
+            "y": -78848,
+            "z": -4416
+          }
+        },
+        {
+          "id": "Athena.Location.POI.CattyCorner",
+          "name": "CATTY CORNER",
+          "location": {
+            "x": -69331,
+            "y": 80376,
+            "z": 7272
+          }
+        },
+        {
+          "id": "Athena.Location.POI.Coliseum",
+          "name": "Colossal Coliseum",
+          "location": {
+            "x": 31380,
+            "y": 42268,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.POI.BeachyBluffs",
+          "name": "CRAGGY CLIFFS",
+          "location": {
+            "x": 99328,
+            "y": 27904,
+            "z": -1536
+          }
+        },
+        {
+          "id": "Athena.Location.POI.DirtyDocks",
+          "name": "DIRTY DOCKS",
+          "location": {
+            "x": 15744,
+            "y": 113920,
+            "z": -1024
+          }
+        },
+        {
+          "id": "Athena.Location.POI.HollyHedges",
+          "name": "HOLLY HEDGES",
+          "location": {
+            "x": -9856,
+            "y": -82432,
+            "z": -128
+          }
+        },
+        {
+          "id": "Athena.Location.POI.HuntersHaven",
+          "name": "Hunter's Haven",
+          "location": {
+            "x": -38172,
+            "y": 14788,
+            "z": 4038
+          }
+        },
+        {
+          "id": "Athena.Location.POI.LazyLake",
+          "name": "LAZY LAKE",
+          "location": {
+            "x": -48384,
+            "y": 53184,
+            "z": 4352
+          }
+        },
+        {
+          "id": "Athena.Location.POI.MountainMeadow",
+          "name": "MISTY MEADOWS",
+          "location": {
+            "x": -88320,
+            "y": 25856,
+            "z": 3584
+          }
+        },
+        {
+          "id": "Athena.Location.POI.NightmareJungle",
+          "name": "Stealthy Stronghold",
+          "location": {
+            "x": 97284,
+            "y": -32308,
+            "z": -1536
+          }
+        },
+        {
+          "id": "Athena.Location.POI.PleasantPark",
+          "name": "PLEASANT PARK",
+          "location": {
+            "x": 65920,
+            "y": -16912,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.POI.RetailRow",
+          "name": "RETAIL ROW",
+          "location": {
+            "x": -39040,
+            "y": 96064,
+            "z": 5376
+          }
+        },
+        {
+          "id": "Athena.Location.POI.SaltyTowers",
+          "name": "SALTY TOWERS",
+          "location": {
+            "x": 14464,
+            "y": -27648,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.POI.SlurpySwamp",
+          "name": "SLURPY SWAMP",
+          "location": {
+            "x": -65536,
+            "y": -47680,
+            "z": 0
+          }
+        },
+        {
+          "id": "Athena.Location.POI.PowerPlant",
+          "name": "STEAMY STACKS",
+          "location": {
+            "x": 82880,
+            "y": 96064,
+            "z": -1088
+          }
+        },
+        {
+          "id": "Athena.Location.POI.SunnyShores",
+          "name": "SWEATY SANDS",
+          "location": {
+            "x": 35136,
+            "y": -76288,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.POI.WeepingWoods",
+          "name": "WEEPING WOODS",
+          "location": {
+            "x": -29696,
+            "y": -36096,
+            "z": 0
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.AngryApples",
+          "name": "The Orchard",
+          "location": {
+            "x": 61392,
+            "y": 51576,
+            "z": 176
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BaseCampFoxtrot",
+          "name": "Base Camp Foxtrot",
+          "location": {
+            "x": -106768,
+            "y": 45724,
+            "z": 5480
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BaseCampGolf",
+          "name": "Base Camp Golf",
+          "location": {
+            "x": -80884,
+            "y": 92076,
+            "z": 5480
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BaseCampHotel",
+          "name": "Base Camp Hotel",
+          "location": {
+            "x": -65240,
+            "y": 110456,
+            "z": 5480
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BeachRentals",
+          "name": "Rainbow Rentals",
+          "location": {
+            "x": -37444,
+            "y": -101388,
+            "z": -1752
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BeachsideMansion",
+          "name": "Boost Pad",
+          "location": {
+            "x": 19712,
+            "y": -114496,
+            "z": -1408
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BigBridge.Blue",
+          "name": "Blue Steel Bridge",
+          "location": {
+            "x": 67368,
+            "y": 13812,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BigBridge.Green",
+          "name": "Green Steel Bridge",
+          "location": {
+            "x": 16752,
+            "y": 64308,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BigBridge.Purple",
+          "name": "Purple Steel Bridge",
+          "location": {
+            "x": -48528,
+            "y": -40716,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BigBridge.Red",
+          "name": "Red Steel Bridge",
+          "location": {
+            "x": 35904,
+            "y": -27648,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BigBridge.Yellow",
+          "name": "Yellow Steel Bridge",
+          "location": {
+            "x": -85328,
+            "y": 61108,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": -22288,
+            "y": -58972,
+            "z": -2960
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": -123028,
+            "y": -8052,
+            "z": -2300
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": -105292,
+            "y": 98008,
+            "z": -1460
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": -67148,
+            "y": 125240,
+            "z": 856
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": 59520,
+            "y": 108344,
+            "z": -2124
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": 105828,
+            "y": 108052,
+            "z": -3664
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": 116208,
+            "y": -31500,
+            "z": -2056
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": 44620,
+            "y": -121744,
+            "z": -2212
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.Bigfoot",
+          "name": null,
+          "location": {
+            "x": -29388,
+            "y": -106736,
+            "z": -2228
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BoatLaunch",
+          "name": "Boat Launch",
+          "location": {
+            "x": -112704,
+            "y": 3760,
+            "z": 5312
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.BoatSales",
+          "name": "Drop Shop",
+          "location": {
+            "x": -18688,
+            "y": 24256,
+            "z": -832
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BobsBluff",
+          "name": "Bob's Bluff",
+          "location": {
+            "x": 95420,
+            "y": 107156,
+            "z": -2400
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BonfireCampsite",
+          "name": "Timber Tent",
+          "location": {
+            "x": 11136,
+            "y": -72576,
+            "z": -1408
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.BushFace",
+          "name": "Grumpy Greens",
+          "location": {
+            "x": 60040,
+            "y": 4168,
+            "z": 120
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Tandem.PretzelRestaurant_P",
+          "name": null,
+          "location": {
+            "x": 56852,
+            "y": 68964,
+            "z": 16
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.ButterBarn",
+          "name": "Butter Barn",
+          "location": {
+            "x": -7982,
+            "y": 11250,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.CampCod",
+          "name": "Camp Cod",
+          "location": {
+            "x": -119040,
+            "y": 72704,
+            "z": -2048
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.CanoeRentals",
+          "name": "Lake Canoe",
+          "location": {
+            "x": -10632,
+            "y": 80896,
+            "z": 1296
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.CaptainCarpsTruck",
+          "name": "Cap'n Carp Delivery Truck",
+          "location": {
+            "x": 16652,
+            "y": 20552,
+            "z": -1344
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.Chair",
+          "name": "Chair",
+          "location": {
+            "x": 7956,
+            "y": 87152,
+            "z": 1944
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.CliffsideRuinedHouses",
+          "name": "Pristine Point",
+          "location": {
+            "x": 108752,
+            "y": 76384,
+            "z": 224
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.CoralCove",
+          "name": "Coral Cove",
+          "location": {
+            "x": 83904,
+            "y": -95808,
+            "z": -2631
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.CosmosCrashSite",
+          "name": "The Razor Crest",
+          "location": {
+            "x": 9040,
+            "y": 54596,
+            "z": -1280
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.CrashedAirplane",
+          "name": "Crash Site",
+          "location": {
+            "x": 73088,
+            "y": -62080,
+            "z": -320
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.CrashedCargo",
+          "name": "Crashed Cargo",
+          "location": {
+            "x": 31632,
+            "y": -115352,
+            "z": -1408
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.CrashedHelicopter",
+          "name": "The Choppa",
+          "location": {
+            "x": 91368,
+            "y": -36504,
+            "z": -192
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.DurrrBurger",
+          "name": "Durrr Burger Food Truck",
+          "location": {
+            "x": 89664,
+            "y": -12120,
+            "z": -964
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.PretzelRestaurant_B",
+          "name": "The Durrr Burger",
+          "location": {
+            "x": -38080,
+            "y": -69184,
+            "z": -2624
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.PretzelWarehouse",
+          "name": "Dusted Depot",
+          "location": {
+            "x": 3440,
+            "y": 26064,
+            "z": -88
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.FlopperPond",
+          "name": "Flopper Pond",
+          "location": {
+            "x": -668,
+            "y": -57484,
+            "z": -1408
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.FlushBuilding",
+          "name": "Flushed Building",
+          "location": {
+            "x": -100371.41,
+            "y": -29210.547,
+            "z": -2048.0352
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.ForkKnife",
+          "name": "Fork Knife Food Truck",
+          "location": {
+            "x": -17804,
+            "y": 56132,
+            "z": 3120
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.FortRuin",
+          "name": "Fort Crumpet",
+          "location": {
+            "x": 50368,
+            "y": -107840,
+            "z": -320
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Awake.FriendMonument",
+          "name": "Friendship Monument",
+          "location": {
+            "x": 49446,
+            "y": -99126,
+            "z": -1932
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.GrottoRuins",
+          "name": "Brutus' Basin",
+          "location": {
+            "x": -19414,
+            "y": 110456,
+            "z": 5480
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.Hatch.A",
+          "name": "?",
+          "location": {
+            "x": 107008,
+            "y": 3072,
+            "z": -2988
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.Hatch.B",
+          "name": "??",
+          "location": {
+            "x": -46084,
+            "y": 122872,
+            "z": -1116
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.Hatch.C",
+          "name": "???",
+          "location": {
+            "x": -49152,
+            "y": -96252,
+            "z": -4800
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.HighHoop",
+          "name": "High Hoops",
+          "location": {
+            "x": 37536,
+            "y": -90176,
+            "z": -1344
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.HilltopHouse",
+          "name": "Hilltop House",
+          "location": {
+            "x": 83508,
+            "y": 84,
+            "z": -964
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.HolidayStore",
+          "name": "Holiday Helpers",
+          "location": {
+            "x": -39048,
+            "y": 105606,
+            "z": 4714
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.LawnmowerRaces",
+          "name": "Mowdown",
+          "location": {
+            "x": 77456,
+            "y": 50672,
+            "z": 928
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.LazyLakeIsland",
+          "name": "Lazy Lake Island",
+          "location": {
+            "x": -67836,
+            "y": 33128,
+            "z": -256
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.Lighthouse",
+          "name": "Lockie's Lighthouse",
+          "location": {
+            "x": 117952,
+            "y": -54720,
+            "z": 320
+          }
+        },
+        {
+          "id": "Athena.Location.POI.Tandem.MountainMeadow",
+          "name": null,
+          "location": {
+            "x": -85760,
+            "y": 42388,
+            "z": 5936
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.LoversLookout",
+          "name": "Scenic Spot",
+          "location": {
+            "x": 50708,
+            "y": 30012,
+            "z": 116
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.MountainDanceClub",
+          "name": "Apres Ski",
+          "location": {
+            "x": -106304,
+            "y": 6512,
+            "z": 7664
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.MountainVault",
+          "name": "**REDACTED**",
+          "location": {
+            "x": -74656,
+            "y": 89472,
+            "z": 5480
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.MountF8",
+          "name": "Mount F8",
+          "location": {
+            "x": -108892,
+            "y": 33200,
+            "z": 17608
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.MountH7",
+          "name": "Mount H7",
+          "location": {
+            "x": -72424,
+            "y": 105352,
+            "z": 17608
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.SpyObstacleCourse",
+          "name": "GHOST House",
+          "location": {
+            "x": -30132,
+            "y": -5710,
+            "z": -1597
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.OvergrownHeads",
+          "name": "Greasy Graves",
+          "location": {
+            "x": -22092,
+            "y": -59180,
+            "z": -2448
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.PizzaPete",
+          "name": "Pizza Pete's Food Truck",
+          "location": {
+            "x": -100364,
+            "y": -18058,
+            "z": -900
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.PretzelRestaurant_P",
+          "name": "The Pizza Pit",
+          "location": {
+            "x": 52592,
+            "y": 52688,
+            "z": -88
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.PowerDam",
+          "name": "Hydro 16",
+          "location": {
+            "x": -69888,
+            "y": -7744,
+            "z": -256
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.RadioStation",
+          "name": "FN Radio",
+          "location": {
+            "x": 93720,
+            "y": 51720,
+            "z": 3648
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.RapidsRest",
+          "name": "Rapid's Rest",
+          "location": {
+            "x": -50240,
+            "y": 70656,
+            "z": 3120
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.RestaurantGas",
+          "name": "Gas N' Grub",
+          "location": {
+            "x": -7296,
+            "y": 42752,
+            "z": -1344
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.RiskyReels",
+          "name": "Risky Reels",
+          "location": {
+            "x": 31768,
+            "y": 10888,
+            "z": -832
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.ScrapYard",
+          "name": "Compact Cars",
+          "location": {
+            "x": 25403,
+            "y": 85970,
+            "z": -344
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.SharkRemains",
+          "name": "Sharky Shell",
+          "location": {
+            "x": 105501,
+            "y": -82492,
+            "z": -320
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.SheriffOffice",
+          "name": "Sheriff's Office",
+          "location": {
+            "x": 20336,
+            "y": 26348,
+            "z": -1344
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.ShipwreckCove",
+          "name": "Shipwreck Cove",
+          "location": {
+            "x": -90816,
+            "y": 109888,
+            "z": -2880
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.SnowCone",
+          "name": "Snow Cone Food Truck",
+          "location": {
+            "x": -82636,
+            "y": 88134,
+            "z": 7272
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.StackShack",
+          "name": "Stack Shack",
+          "location": {
+            "x": 3376,
+            "y": -119208,
+            "z": -1408
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.SteelFarm",
+          "name": "Steel Farm",
+          "location": {
+            "x": 41187,
+            "y": 67562,
+            "z": -344
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.StumpyRidge",
+          "name": "Stumpy Ridge",
+          "location": {
+            "x": -48500,
+            "y": 7392,
+            "z": -832
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.SurfaceHubIO.D1",
+          "name": "Surface Hub IO-D1",
+          "location": {
+            "x": 96204,
+            "y": -30414,
+            "z": 2371
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.SurfaceHubIO.E6",
+          "name": "Surface Hub IO-E6",
+          "location": {
+            "x": -40884,
+            "y": 6066,
+            "z": 5955
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.SurfaceHubIO.F4",
+          "name": "Surface Hub IO-F4",
+          "location": {
+            "x": 28748,
+            "y": 41394,
+            "z": 579
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.SwampVille",
+          "name": "Shanty Town",
+          "location": {
+            "x": -61376,
+            "y": -82304,
+            "z": -3776
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.TallestMountain",
+          "name": "Mount Kay",
+          "location": {
+            "x": -93060,
+            "y": 85640,
+            "z": 17608
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.ToiletTitan",
+          "name": "No. 2",
+          "location": {
+            "x": 10608,
+            "y": -117544,
+            "z": -1408
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.Trophy",
+          "name": null,
+          "location": {
+            "x": 79888,
+            "y": 95264,
+            "z": -1856
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.UnremarkableShack",
+          "name": "Unremarkable Shack",
+          "location": {
+            "x": 112928,
+            "y": -3044,
+            "z": -964
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.VikingShip",
+          "name": "Viking Vessel",
+          "location": {
+            "x": -13378.227,
+            "y": -98115.14,
+            "z": -478.65918
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.WaterfallGorge",
+          "name": "Gorgeous Gorge",
+          "location": {
+            "x": -25472,
+            "y": 27072,
+            "z": -832
+          }
+        },
+        {
+          "id": "Athena.Location.UnnamedPOI.WeatherStation",
+          "name": "Weather Station",
+          "location": {
+            "x": -94496,
+            "y": 77504,
+            "z": 7272
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.WoodsmanCabin",
+          "name": "Lumber Lodge",
+          "location": {
+            "x": -118532,
+            "y": 10120,
+            "z": -424
+          }
+        },
+        {
+          "id": "Athena.Location.UnNamedPOI.PrezelCrater",
+          "name": "Zero Point",
+          "location": {
+            "x": 6972,
+            "y": 5916,
+            "z": 8292
+          }
+        }
+      ]
+    }

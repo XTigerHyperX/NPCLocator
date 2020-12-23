@@ -1,0 +1,296 @@
+{
+"POIS": [
+{
+  "NPC": "Bandolier",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.Tandem.FlushBuilding"
+  ]
+},
+{
+  "NPC": "Beef Boss",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.PretzelRestaurant_B",
+    "Athena.Location.UnnamedPOI.DurrrBurger"
+  ]
+},
+{
+  "NPC": "Big Chuggus",
+  "Tags": [
+    "Athena.Location.POI.SlurpySwamp",
+    "Athena.Location.UnnamedPOI.SwampVille"
+  ]
+},
+{
+  "NPC": "Bigfoot",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.Tandem.Bigfoot"
+  ]
+},
+{
+  "NPC": "Blaze",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.CliffsideRuinedHouses",
+    "Athena.Location.UnnamedPOI.BonfireCampsite"
+  ]
+},
+{
+  "NPC": "Brite Bomber",
+  "Tags": [
+    "Athena.Location.POI"
+  ]
+},
+{
+  "NPC": "Brutus",
+  "Tags": [
+    "Athena.Location.POI.DirtyDocks"
+  ]
+},
+{
+  "NPC": "Bullseye",
+  "Tags": [
+    "Athena.Location.POI.PowerPlant"
+  ]
+},
+{
+  "NPC": "Bunker Jonesy",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.CampCod",
+    "Athena.Location.UnnamedPOI.ShipwreckCove"
+  ]
+},
+{
+  "NPC": "Burnout",
+  "Tags": [
+    "Athena.Location.POI.SunnyShores",
+    "Athena.Location.UnNamedPOI.Tandem.RadioStation",
+    "Athena.Location.POI.Tandem.PowerPlant"
+  ]
+},
+{
+  "NPC": "Bushranger",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.RapidsRest",
+    "Athena.Location.POI.SaltyTowers",
+    "Athena.Location.UnNamedPOI.Tandem.PretzelRestaurant_P"
+  ]
+},
+{
+  "NPC": "Cole",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.ShipwreckCove",
+    "Athena.Location.POI.Tandem.RetailRow"
+  ]
+},
+{
+  "NPC": "Deadfire",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.SheriffOffice"
+  ]
+},
+{
+  "NPC": "Doggo",
+  "Tags": [
+    "Athena.Location.POI.PleasantPark",
+    "Athena.Location.POI.RetailRow"
+  ]
+},
+{
+  "NPC": "Dummy",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.ScrapYard",
+    "Athena.Location.POI.Tandem.PleasantPark"
+  ]
+},
+{
+  "NPC": "Farmer Steel",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.SteelFarm"
+  ]
+},
+{
+  "NPC": "Fishstick",
+  "Tags": [
+    "Athena.Location.POI.BeachyBluffs",
+    "Athena.Location.POI.Carl"
+  ]
+},
+{
+  "NPC": "Kondor",
+  "Tags": [
+    "Athena.Location.POI.MountainMeadow"
+  ]
+},
+{
+  "NPC": "Menace",
+  "Tags": [
+    "Athena.Location.POI.Coliseum"
+  ]
+},
+{
+  "NPC": "Grimbles",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.FortRuin"
+  ]
+},
+{
+  "NPC": "Lexa",
+  "Tags": [
+    "Athena.Location.POI.HuntersHaven"
+  ]
+},
+{
+  "NPC": "Kit",
+  "Tags": [
+    "Athena.Location.POI.CattyCorner"
+  ]
+},
+{
+  "NPC": "Kyle",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.WoodsmanCabin",
+    "Athena.Location.POI.WeepingWoods"
+  ]
+},
+{
+  "NPC": "Longshot",
+  "Tags": [
+    "Athena.Location.POI.Tandem.MountainMeadow"
+  ]
+},
+{
+  "NPC": "The Mandalorian",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.Tandem.CosmosCrashSite"
+  ]
+},
+{
+  "NPC": "Noir",
+  "Tags": [
+    "Athena.Location.Blank"
+  ]
+},
+{
+  "NPC": "Outcast",
+  "Tags": [
+    "Athena.Location.POI.SunnyShores",
+    "Athena.Location.UnnamedPOI.FlopperPond"
+  ]
+},
+{
+  "NPC": "Mancake",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.ButterBarn"
+  ]
+},
+{
+  "NPC": "Ragnarok",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.VikingShip"
+  ]
+},
+{
+  "NPC": "Rapscallion",
+  "Tags": [
+    "Athena.Location.POI.LazyLake",
+    "Athena.Location.POI.HollyHedges"
+  ]
+},
+{
+  "NPC": "Remedy",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.HilltopHouse",
+    "Athena.Location.POI.BeachyBluffs"
+  ]
+},
+{
+  "NPC": "Ruckus",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.PowerDam"
+  ]
+},
+{
+  "NPC": "Mave",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.ShipwreckCove"
+  ]
+},
+{
+  "NPC": "Sleuth",
+  "Tags": [
+    "Athena.Location.POI.RetailRow",
+    "Athena.Location.POI.SunnyShores"
+  ]
+},
+{
+  "NPC": "Snowmando",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.Tandem.Snomando"
+  ]
+},
+{
+  "NPC": "Sparkplug",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.Tandem.PowerDam",
+    "Athena.Location.POI.LazyLake",
+    "Athena.Location.POI.Tandem.WeepingWoods"
+  ]
+},
+{
+  "NPC": "Splode",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.UnremarkableShack"
+  ]
+},
+{
+  "NPC": "Sunflower",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.AngryApples"
+  ]
+},
+{
+  "NPC": "Sunflower",
+  "Tags": [
+    "Athena.Location.POI"
+  ]
+},
+{
+  "NPC": "Tandem Test B",
+  "Tags": [
+    "Athena.Location.POI"
+  ]
+},
+{
+  "NPC": "The Reaper",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.BeachsideMansion"
+  ]
+},
+{
+  "NPC": "Tomatohead",
+  "Tags": [
+    "Athena.Location.UnNamedPOI.PretzelRestaurant_P",
+    "Athena.Location.UnnamedPOI.PizzaPete"
+  ]
+},
+{
+  "NPC": "Triggerfish",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.CrashedCargo"
+  ]
+},
+{
+  "NPC": "Turk",
+  "Tags": [
+    "Athena.Location.UnnamedPOI.CanoeRentals",
+    "Athena.Location.POI.PowerPlant",
+    "Athena.Location.UnnamedPOI.LazyLakeIsland"
+  ]
+},
+{
+  "NPC": "Reese",
+  "Tags": [
+    "Athena.Location.POI.DirtyDocks"
+  ]
+}
+] 
+ }

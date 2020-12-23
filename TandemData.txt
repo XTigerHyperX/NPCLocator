@@ -1,0 +1,158 @@
+NPC : Bandolier
+[
+  "Athena.Location.UnNamedPOI.Tandem.FlushBuilding"
+]NPC : Beef Boss
+[
+  "Athena.Location.UnNamedPOI.PretzelRestaurant_B",
+  "Athena.Location.UnnamedPOI.DurrrBurger"
+]NPC : Big Chuggus
+[
+  "Athena.Location.POI.SlurpySwamp",
+  "Athena.Location.UnnamedPOI.SwampVille"
+]NPC : Bigfoot
+[
+  "Athena.Location.UnNamedPOI.Tandem.Bigfoot"
+]NPC : Blaze
+[
+  "Athena.Location.UnnamedPOI.CliffsideRuinedHouses",
+  "Athena.Location.UnnamedPOI.BonfireCampsite"
+]NPC : Brite Bomber
+[
+  "Athena.Location.POI"
+]NPC : Brutus
+[
+  "Athena.Location.POI.DirtyDocks"
+]NPC : Bullseye
+[
+  "Athena.Location.POI.PowerPlant"
+]NPC : Bunker Jonesy
+[
+  "Athena.Location.UnnamedPOI.CampCod",
+  "Athena.Location.UnnamedPOI.ShipwreckCove"
+]NPC : Burnout
+[
+  "Athena.Location.POI.SunnyShores",
+  "Athena.Location.UnNamedPOI.Tandem.RadioStation",
+  "Athena.Location.POI.Tandem.PowerPlant"
+]NPC : Bushranger
+[
+  "Athena.Location.UnnamedPOI.RapidsRest",
+  "Athena.Location.POI.SaltyTowers",
+  "Athena.Location.UnNamedPOI.Tandem.PretzelRestaurant_P"
+]NPC : Cole
+[
+  "Athena.Location.UnnamedPOI.ShipwreckCove",
+  "Athena.Location.POI.Tandem.RetailRow"
+]NPC : Deadfire
+[
+  "Athena.Location.UnNamedPOI.SheriffOffice"
+]NPC : Doggo
+[
+  "Athena.Location.POI.PleasantPark",
+  "Athena.Location.POI.RetailRow"
+]NPC : Dummy
+[
+  "Athena.Location.UnnamedPOI.ScrapYard",
+  "Athena.Location.POI.Tandem.PleasantPark"
+]NPC : Farmer Steel
+[
+  "Athena.Location.UnNamedPOI.SteelFarm"
+]NPC : Fishstick
+[
+  "Athena.Location.POI.BeachyBluffs",
+  "Athena.Location.POI.Carl"
+]NPC : Kondor
+[
+  "Athena.Location.POI.MountainMeadow"
+]NPC : Menace
+[
+  "Athena.Location.POI.Coliseum"
+]NPC : Grimbles
+[
+  "Athena.Location.UnnamedPOI.FortRuin"
+]NPC : Lexa
+[
+  "Athena.Location.POI.HuntersHaven"
+]NPC : Kit
+[
+  "Athena.Location.POI.CattyCorner"
+]NPC : Kyle
+[
+  "Athena.Location.UnNamedPOI.WoodsmanCabin",
+  "Athena.Location.POI.WeepingWoods"
+]NPC : Longshot
+[
+  "Athena.Location.POI.Tandem.MountainMeadow"
+]NPC : The Mandalorian
+[
+  "Athena.Location.UnNamedPOI.Tandem.CosmosCrashSite"
+]NPC : Noir
+[
+  "Athena.Location.Blank"
+]NPC : Outcast
+[
+  "Athena.Location.POI.SunnyShores",
+  "Athena.Location.UnnamedPOI.FlopperPond"
+]NPC : Mancake
+[
+  "Athena.Location.UnNamedPOI.ButterBarn"
+]NPC : Ragnarok
+[
+  "Athena.Location.UnNamedPOI.VikingShip"
+]NPC : Rapscallion
+[
+  "Athena.Location.POI.LazyLake",
+  "Athena.Location.POI.HollyHedges"
+]NPC : Remedy
+[
+  "Athena.Location.UnnamedPOI.HilltopHouse",
+  "Athena.Location.POI.BeachyBluffs"
+]NPC : Ruckus
+[
+  "Athena.Location.UnnamedPOI.PowerDam"
+]NPC : Mave
+[
+  "Athena.Location.UnnamedPOI.ShipwreckCove"
+]NPC : Sleuth
+[
+  "Athena.Location.POI.RetailRow",
+  "Athena.Location.POI.SunnyShores"
+]NPC : Snowmando
+[
+  "Athena.Location.UnNamedPOI.Tandem.Snomando"
+]NPC : Sparkplug
+[
+  "Athena.Location.UnNamedPOI.Tandem.PowerDam",
+  "Athena.Location.POI.LazyLake",
+  "Athena.Location.POI.Tandem.WeepingWoods"
+]NPC : Splode
+[
+  "Athena.Location.UnnamedPOI.UnremarkableShack"
+]NPC : Sunflower
+[
+  "Athena.Location.UnnamedPOI.AngryApples"
+]NPC : Sunflower
+[
+  "Athena.Location.POI"
+]NPC : Tandem Test B
+[
+  "Athena.Location.POI"
+]NPC : The Reaper
+[
+  "Athena.Location.UnnamedPOI.BeachsideMansion"
+]NPC : Tomatohead
+[
+  "Athena.Location.UnNamedPOI.PretzelRestaurant_P",
+  "Athena.Location.UnnamedPOI.PizzaPete"
+]NPC : Triggerfish
+[
+  "Athena.Location.UnnamedPOI.CrashedCargo"
+]NPC : Turk
+[
+  "Athena.Location.UnnamedPOI.CanoeRentals",
+  "Athena.Location.POI.PowerPlant",
+  "Athena.Location.UnnamedPOI.LazyLakeIsland"
+]NPC : Reese
+[
+  "Athena.Location.POI.DirtyDocks"
+]
