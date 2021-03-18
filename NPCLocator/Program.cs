@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Drawing;
+using System.Linq;
 using NPCLocator.a_big_mess;
 
 namespace NPCLocator
@@ -7,12 +9,13 @@ namespace NPCLocator
     {
         static void Main(string[] args)
         {
-            a_big_mess.Execute.ExportAndRead();
+            Location.Grab();
+            //a_big_mess.Execute.ExportAndRead();
             POINameTranslator.Translate();
             LocationParser.DrawOnMap();
-            DrawNPCOnMap.draw();
+            //DrawNPCOnMap.draw();
+            CraftingTable.getFormula();
             Console.ReadKey();
         }
     }
-    
 }
