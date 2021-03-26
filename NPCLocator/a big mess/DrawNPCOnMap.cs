@@ -37,12 +37,19 @@ namespace NPCLocator.a_big_mess
                         m3 = item.Tags[2];
                     }
                     catch{}
+
+                    if (m.Contains("Tandem"))
+                        m = m.Replace(".Tandem", "");
+                    if (m2.Contains("Tandem"))
+                        m2 = m2.Replace(".Tandem", "");
+                    if (m3.Contains("Tandem"))
+                        m3 = m3.Replace(".Tandem", "");
                     try
                     {
                         float s = 900000000;
                         float ssl = 900000000;
                         Console.WriteLine(item.NPC);
-                        Console.WriteLine(item.Tags[0]);
+                        Console.WriteLine(m);
                         string json2 = System.IO.File.ReadAllText(@"C:\Users\XTigerHyperX\source\repos\NPCLocator\newtest.json");
                         var obj2 = JsonConvert.DeserializeObject<dynamic>(json2);
                         foreach (var item2 in obj2.pois)
@@ -63,7 +70,7 @@ namespace NPCLocator.a_big_mess
                                 Graphics g = Graphics.FromImage(image);
                                 float x = ((s + 135000) / (135000 * 2)) * 2048;
                                 float y = (1 - (ssl + 135000) / (135000 * 2)) * 2048;
-                                if (item.NPC == "Blaze" || item.NPC == "Brutus" || item.NPC == "Menace" || item.NPC == "Ragnarok" || item.NPC == "Big Chuggus" || item.NPC == "Ruckus" || item.NPC == "Kondor" || item.NPC == "Kit")
+                                if (1>0)
                                 {
                                     g.DrawString(sNPC, fontDSetting, brush, x - 50, y - 34);
                                     g.DrawString(".", fontD2Setting, brush, x, y - 10);

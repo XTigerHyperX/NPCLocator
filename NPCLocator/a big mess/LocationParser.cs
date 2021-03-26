@@ -19,7 +19,7 @@ namespace NPCLocator.a_big_mess
             using (Image image = resized)
             using (Graphics imageGraphics = Graphics.FromImage(image))
             {
-                string json = System.IO.File.ReadAllText(@":\Users\XTigerHyperX\Desktop\New folder (4)\Output\JSONs\FortniteGame\Content\Quests\QuestIndicatorData.json");
+                string json = System.IO.File.ReadAllText(@"C:\Users\XTigerHyperX\Desktop\New folder (4)\Output\JSONs\FortniteGame\Content\Quests\QuestIndicatorData.json");
                 json = json.Substring(1, json.Length - 2);
                 var obj = JsonConvert.DeserializeObject<dynamic>(json);
                 var brush2 = Brushes.White;
