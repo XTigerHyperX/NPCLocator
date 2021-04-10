@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
 
 namespace NPCLocator.a_big_mess
 {
@@ -25,8 +21,7 @@ namespace NPCLocator.a_big_mess
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Translated all location codenames");
             Console.ForegroundColor = ConsoleColor.White;
-
-
+            
             File.AppendAllText(@"C:\Users\XTigerHyperX\source\repos\NPCLocator\Final.txt", tandem);
 
         }
